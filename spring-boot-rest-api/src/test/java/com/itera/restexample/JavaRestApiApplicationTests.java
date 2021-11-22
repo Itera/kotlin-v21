@@ -1,4 +1,4 @@
-package com.itera.javarestapi;
+package com.itera.restexample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

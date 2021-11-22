@@ -1,7 +1,7 @@
-package com.itera.javarestapi.resources;
+package com.itera.restexample.resources;
 
-import com.itera.javarestapi.models.Thingy;
-import com.itera.javarestapi.services.ThingyService;
+import com.itera.restexample.models.Thingy;
+import com.itera.restexample.services.ThingyService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;

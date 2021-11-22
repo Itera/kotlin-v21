@@ -1,4 +1,4 @@
-package com.itera.javarestapi.models;
+package com.itera.restexample.models;
 
 import java.util.Objects;
 

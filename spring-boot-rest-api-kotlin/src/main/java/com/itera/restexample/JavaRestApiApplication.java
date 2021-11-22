@@ -1,4 +1,4 @@
-package com.itera.javarestapi;
+package com.itera.restexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

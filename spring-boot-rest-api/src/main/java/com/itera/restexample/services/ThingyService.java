@@ -1,6 +1,6 @@
-package com.itera.javarestapi.services;
+package com.itera.restexample.services;
 
-import com.itera.javarestapi.models.Thingy;
+import com.itera.restexample.models.Thingy;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
